@@ -106,4 +106,7 @@ php artisan schedule:work
 | `/settings`          | `GET`  | Настройки Google Sheets |
 | `/fetch/{count?}`    | `GET`  | Выгрузка комментариев |
 
-🎥 [Посмотреть видео](public/videos/demo.mp4)
+## 🎥 Видео демонстрация
+
+[![Watch the video](https://img.youtube.com/vi/pI3IFm1LMTc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pI3IFm1LMTc)
+
